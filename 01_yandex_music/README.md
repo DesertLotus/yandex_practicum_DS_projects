@@ -1,2 +1,2 @@
 # yandex_practicum_DS_projects
-My first project
+My first project for yandex music
