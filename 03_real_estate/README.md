@@ -47,7 +47,7 @@
 
 ## Стек технологий:
 
-Pandas, matplotlib, seaborn, jupyter notebook.
+Pandas, matplotlib, seaborn.
 
 ## Статус проекта:
 
